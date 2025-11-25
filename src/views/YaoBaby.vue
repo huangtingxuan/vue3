@@ -5,7 +5,11 @@
 </template>
 
 <script setup>
-const aa = 1;
-const jfujf = "fkfk";
+// import { EventBus } from "../utils/bus.js";
+// EventBus.$on("updateValue", (value) => {
+//   console.log("mylove", value);
+// });
+// const aa = 1;
+// const jfujf = "fkfk";
 </script>
 <style scoped></style>

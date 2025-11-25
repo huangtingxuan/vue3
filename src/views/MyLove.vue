@@ -5,7 +5,10 @@
   <img class="image1" src="../assets/3.jpg" />
 </template>
 
-<script setup></script>
+<script setup>
+// import { EventBus } from "../utils/bus.js";
+// EventBus.$emit("updateValue", "非父子组件传值");
+</script>
 <style scoped>
 .image1 {
   height: 400px;
