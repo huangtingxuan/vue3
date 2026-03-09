@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">YaoBaby</router-link> |
+    <router-link to="/">我的小肥曜</router-link> |
     <router-link to="/MyLove">MyLove</router-link>
   </nav>
   <router-view></router-view>
